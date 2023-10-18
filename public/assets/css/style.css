@@ -1,0 +1,35 @@
+body {
+ 	background: rgb(253,187,45);
+	background: linear-gradient(0deg, rgba(253,187,45,1) 0%, rgba(141,190,122,1) 20%, rgba(34,193,195,1) 100%) no-repeat  fixed;
+}
+
+.header{
+	font-size: 48px;
+}
+.text{
+	font-size: 24px;
+}
+.text-center{
+	text-align: center;
+}
+.text-start{
+	text-align: left;
+}
+.text-end{
+	text-align: right;
+}
+.container{
+	width: 90%;
+	padding-right: 5%;
+	padding-left: 5%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.img{
+	width: 100%;
+	text-align: center; 
+}
+.background{
+	background: rgb(253,187,45);
+	background: linear-gradient(0deg, rgba(253,187,45,1) 0%, rgba(141,190,122,1) 20%, rgba(34,193,195,1) 100%);
+}
